@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416130512148",
+    "project_id": "navimumbainews-5b386",
+    "storage_bucket": "navimumbainews-5b386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416130512148:android:1f08cfa5af2176e95b7e01",
+        "android_client_info": {
+          "package_name": "co.syntags.navimumbainews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416130512148-orvbn6bk63ehl13jbnji75nss8nrkfvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUhJngJzVTWENIe-k05mKUTlyGQybh-7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416130512148-orvbn6bk63ehl13jbnji75nss8nrkfvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
